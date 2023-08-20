@@ -2,5 +2,4 @@
 Analyzed the customer behavior towards the service provided in the call center and what makes them unsubscribe from their service.
 
 
-
-<img width="587" alt="Customer Retention" src="https://github.com/SowmiyaC02/Customer-Retention/assets/125535938/48f35e76-ea97-4482-bb3a-b01ef848d745">
+<img width="655" alt="Screenshot 2023-08-20 135353" src="https://github.com/SowmiyaC02/Customer-Retention/assets/125535938/14cd0e04-bbb8-4426-892c-ae068c86d090">
